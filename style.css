@@ -1,0 +1,16 @@
+    
+    body {background-color: #EAF6F6;}
+    
+    hr{border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width: 10%;}
+    img {height: 200px;
+    }
+    h3 {color: #18978F;
+    font-style:oblique;}
+    h1{color: #66BFBF;
+    font-style: italic;}
+    th{color: #53BF9D;
+        font-style:italic;}
